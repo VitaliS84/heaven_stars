@@ -1,0 +1,19 @@
+{
+  "name": "heaven_stars",
+  "version": "1.0.0",
+  "description": "This is the place where you can find catholic saints of today and get some information about them.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
